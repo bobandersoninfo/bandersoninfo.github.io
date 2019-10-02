@@ -1,4 +1,4 @@
-This is bandersoninfo's first githut edit.
+This is bandersoninfo's first github edit.
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
